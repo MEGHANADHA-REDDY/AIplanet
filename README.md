@@ -308,7 +308,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/MEGHANADHA-REDDY/AIplanet/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/MEGHANADHA-REDDY/AIplanet/discussions)
-- **Email**: [Your Email]
+- **Email**: [meghanadreddy005@gmail.com]
 
 ---
 
